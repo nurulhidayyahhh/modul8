@@ -14,7 +14,7 @@ class ProfileController extends Controller
         $pageTitle = 'My Profile';
         $namaa = 'Nurul Hidayah';
         $email = 'nurulhidayah8604@gmail.com';
-        $instagram = 'nurulhidayyahhh';
+        $instagram = '@nurulhidayyahhh';
         $desc = 'Hi! You can call me Nurul. I am 20 years old. I am 
         easy to adapt, can work hard, and work with in 
         team. Besides, I love learning new things';
